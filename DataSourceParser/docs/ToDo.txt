@@ -1,0 +1,7 @@
+﻿--------------------------------------------------------------------------------
+-- To Do
+--------------------------------------------------------------------------------
+
+->	- dataStr: gen list to string
+		- source: https://en.wikipedia.org/wiki/Generational_list_of_programming_languages
+	- dataList: parse dataStr to List (or other data structure)
