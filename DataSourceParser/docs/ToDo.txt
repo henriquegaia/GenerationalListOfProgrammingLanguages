@@ -3,5 +3,6 @@
 --------------------------------------------------------------------------------
 
 ->	- dataStr: gen list to string
+		- example: https://fsharpforfunandprofit.com/posts/fvsc-download/
 		- source: https://en.wikipedia.org/wiki/Generational_list_of_programming_languages
 	- dataList: parse dataStr to List (or other data structure)
